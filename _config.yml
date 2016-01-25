@@ -70,5 +70,5 @@ theme: landscape
 deploy:
   type:git
   repo:https://github.com/GTagent/GTagent.github.io.git
-  branch:hexo
+  branch:master
   
