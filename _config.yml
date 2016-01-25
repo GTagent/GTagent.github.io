@@ -6,16 +6,16 @@
 title: Hexo
 subtitle:
 description:
-author: John Doe
+author: GTagent
+email:gddswlz@163.com
 language:zh-Hans
-timezone:
+timezone:Asia/Hong_Kong
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: https://github.com/gtagent
 root: /
 permalink: :year/:month/:day/:title/
-permalink_defaults:
 
 # Directory
 source_dir: source
